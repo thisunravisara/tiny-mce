@@ -2,9 +2,10 @@
   "name": "tiny-mce",
   "version": "1.0.0",
   "description": "This package is to stripe out the tinyMCE and build only necessary functionalities for text editor required for creately ",
-  "main": "js/index.js",
+  "main": "js/tinymce.min.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
